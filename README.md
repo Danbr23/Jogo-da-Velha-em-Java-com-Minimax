@@ -81,7 +81,7 @@ Esse cálculo garante que "1" seja o mais fácil e "9" o mais difícil, proporci
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/Danbr23/GPON-Calculator.git
+git clone https://github.com/Danbr23/Jogo-da-Velha-em-Java-com-Minimax.git
 ```
 
 2. Abra o projeto na sua IDE de preferência (IntelliJ IDEA, Eclipse, NetBeans, etc.).
