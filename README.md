@@ -94,3 +94,16 @@ git clone https://github.com/Danbr23/GPON-Calculator.git
 
 ## Imagens
 
+![Tela Inicial](imgs/Tela_Inicial.png)
+
+### Escolha de quem vai começar: Usuário ou CPU
+![Escolha de quem vai comecar](imgs/Escolha_Quem_Comeca.png)
+
+### Vitória do usuário
+![Vitoria do jogador](imgs/Vitoria_Usuario.png)
+
+### Vitoria do computador
+![Vitoria do computador](imgs/Vitoria_Computador.png)
+
+### Empate
+![Vitoria do computador](imgs/Empate.png)
